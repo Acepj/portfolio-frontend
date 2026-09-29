@@ -1,5 +1,5 @@
 
-# Ace Lopez — Assessment Portfolio
+# Ace Lopezz — Assessment Portfolio
 
 A personal student portfolio website showcasing my background, skills, interests, and portfolio gallery as a 3rd-year Bachelor of Science in Information Technology student.
 
